@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "restaurant-sales"
+version = "0.1.0"
+description = "Basic project using pandas and matplotlib to visualize and analyze sample \"restaurant sales\" data, made for CBSE IP project"
+authors = ["sushantpadha <24b1057@iitb.ac.in>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+matplotlib = "^3.9.2"
+
+[tool.poetry.scripts]
+restaurant_sales = "restaurant_sales.__main__:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

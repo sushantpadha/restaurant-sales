@@ -1,0 +1,30 @@
+food_item,food_category,food_type
+chocolate milshake,beverage,veg
+pina colada,beverage,veg
+mint mojito,beverage,veg
+cheese omelette,breakfast,non-veg
+hash browns,breakfast,veg
+pancakes,breakfast,veg
+chicken burger,burger,non-veg
+chicken double patty burger,burger,non-veg
+lamb sizzler,continental,non-veg
+chocolate cheesecake,dessert,veg
+chocolate mousse cake,dessert,veg
+tiramisu,dessert,veg
+toffee cake,dessert,veg
+vanilla cheesecake,dessert,veg
+chicken curry,indian,non-veg
+chicken tikka masala,indian,non-veg
+garlic naan,indian,veg
+parmesan garlic bread,italian,veg
+pasta aglio oglio,italian,veg
+spaghetti alfredo,italian,veg
+vegetable lasagna,italian,veg
+farmhouse pizza,pizza,veg
+margherita pizza,pizza,veg
+mediterranean pizza,pizza,veg
+classic peperroni pizza,pizza,non-veg
+chicken salad,salad,non-veg
+caeser salad,salad,veg
+club veg sandwich,sandwich,veg
+grilled chicken sandwich,sandwich,non-veg

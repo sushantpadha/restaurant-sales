@@ -1,0 +1,31 @@
+day,time,order_type,food_item,quantity
+monday,0900,dine,spaghetti alfredo,1
+monday,1000,dine,cheese omelette,1
+monday,1200,dine,chicken burger,2
+tuesday,1000,dine,cheese omelette,1
+tuesday,2000,dine,vegetable lasagna,1
+tuesday,2000,dine,toffee cake,1
+wednesday,1000,dine,cheese omelette,1
+wednesday,1000,dine,hash browns,1
+wednesday,1200,delivery,margherita pizza,2
+thursday,2000,delivery,grilled chicken sandwich,1
+thursday,2100,delivery,margherita pizza,5
+friday,1000,dine,chicken salad,1
+friday,1000,dine,spaghetti alfredo,1
+friday,1000,dine,pina colada,2
+friday,1000,dine,tiramisu,1
+friday,2000,delivery,margherita pizza,4
+friday,2000,delivery,grilled chicken sandwich,4
+friday,2100,dine,farmhouse pizza,4
+friday,2100,dine,chocolate mousse cake,4
+saturday,0900,dine,pancakes,3
+saturday,1000,dine,chocolate milshake,1
+saturday,1400,dine,chicken curry,1
+saturday,1400,dine,garlic naan,3
+saturday,1400,dine,chocolate cheesecake,1
+saturday,1900,delivery,lamb sizzler,1
+saturday,1900,delivery,chicken tikka masala,2
+saturday,1900,delivery,chicken double patty burger,1
+saturday,2100,delivery,pasta aglio oglio,1
+saturday,2100,delivery,parmesan garlic bread,1
+saturday,2100,delivery,vanilla cheesecake,1
